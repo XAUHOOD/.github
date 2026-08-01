@@ -1,9 +1,10 @@
 # XAUHOOD
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XAUHOOD/.github/main/profile/XAUHOOD.jpg"
+  <a href="https://github.com/XAUHOOD"><img src="https://raw.githubusercontent.com/XAUHOOD/.github/main/profile/XAUHOOD.jpg"
        alt="XAUHOOD — The Gold Meme of Robinhood Chain"
        width="100%">
+</a>
 </p>
 
 # 🟨 XAUHOOD
@@ -129,6 +130,30 @@ Memes are forever.
 Welcome to XAUHOOD.
 
 > **The Gold Meme of Robinhood Chain.**
+
+---
+
+# Community Contributors
+
+Everyone is welcome to contribute and help shape XAUHOOD.
+
+The following contributors have made meaningful contributions to the XAUHOOD ecosystem.
+
+| Contributor | Role | Contribution |
+|-------------|------|--------------|
+| **Github.com/XAUHOOD** | #1 Official web | The first official web -> https://Github.com/XAUHOOD |
+| @JohnDoe | Community Lead | Founded and manages the official X (Twitter) community. |
+| @JaneDoe | Discord Moderator | Moderates the official Discord server and helps support the community. |
+
+Contributions may include, but are not limited to:
+
+- Community management
+- X (Twitter) moderation
+- Discord moderation
+- Telegram moderation
+- Meme creation & Graphic design
+
+> Want to be listed here? Make a meaningful contribution to XAUHOOD and help grow the community.
 
 ---
 
