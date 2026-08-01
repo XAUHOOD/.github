@@ -25,16 +25,6 @@ Just community.
 
 ---
 
-# Buy XAUHOOD
-
-Fair-launch bonding curves. Start at a $4k cap, graduate at a ~$44k market cap into a Uniswap pool with 100% of the LP burned. No presale, no team allocation.
-
-Buy **XAUHOOD** on ROBINFUN here --> https://robinfun.live/token/0xd0c64ad29a6501073862f1fd810a4b2df86c4663
-
-Buy **XAUHOOD** on UNISWAP here --> https://app.uniswap.org/swap?outputCurrency=0xd0c64ad29a6501073862f1fd810a4b2df86c4663&chain=robinhood
-
----
-
 # Why XAUHOOD?
 
 Gold has represented value, resilience, and timeless culture for thousands of years.
@@ -55,11 +45,23 @@ But because gold deserves its meme.
 
 **Ticker**: XAUHOOD
 
+**Total Supply**: 100,000,000 XAUHOOD
+
 **Category**: Gold Meme Coin
 
 **Chain**: Robinhood Chain
 
 **Community**: Everyone is welcome to contribute and help shape **XAUHOOD**.
+
+---
+
+# Buy XAUHOOD
+
+Fair-launch bonding curves. Start at a $4k cap, graduate at a ~$44k market cap into a Uniswap pool with 100% of the LP burned. No presale, no team allocation.
+
+Buy **XAUHOOD** on ROBINFUN here --> https://robinfun.live/token/0xd0c64ad29a6501073862f1fd810a4b2df86c4663
+
+Buy **XAUHOOD** on UNISWAP here --> https://app.uniswap.org/swap?outputCurrency=0xd0c64ad29a6501073862f1fd810a4b2df86c4663&chain=robinhood
 
 ---
 
