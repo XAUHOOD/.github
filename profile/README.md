@@ -25,6 +25,12 @@ Just community.
 
 ---
 
+# Buy XAUHOOD
+
+Buy **XAUHOOD** on ROBINFUN here --> https://robinfun.live/token/0xd0c64ad29a6501073862f1fd810a4b2df86c4663
+
+---
+
 # Why XAUHOOD?
 
 Gold has represented value, resilience, and timeless culture for thousands of years.
