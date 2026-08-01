@@ -1,7 +1,9 @@
 # XAUHOOD
 
 <p align="center">
-<img src="./assets/banner.png" width="100%" alt="XAUHOOD">
+  <img src="https://raw.githubusercontent.com/XAUHOOD/.github/main/profile/XAUHOOD.jpg"
+       alt="XAUHOOD — The Gold Meme of Robinhood Chain"
+       width="100%">
 </p>
 
 # 🟨 XAUHOOD
@@ -38,27 +40,15 @@ But because gold deserves its meme.
 
 # Identity
 
-**Name**
+**Name**: XAUHOOD
 
-XAUHOOD
+**Ticker**: XAUHOOD
 
-**Ticker**
+**Category**: Gold Meme Coin
 
-XAUHOOD
+**Chain**: Robinhood Chain
 
-**Category**
-
-Gold Meme Coin
-
-**Chain**
-
-Robinhood Chain
-
-**Community**
-
-Created by nobody.
-
-Built by everybody.
+**Community**: Everyone is welcome to contribute and help shape **XAUHOOD**.
 
 ---
 
@@ -72,7 +62,7 @@ We don't replace finance.
 
 We make it fun.
 
-XAUHOOD exists because every blockchain deserves a legendary gold meme.
+**XAUHOOD** exists because every blockchain deserves a legendary gold meme.
 
 ---
 
