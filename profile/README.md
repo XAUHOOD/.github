@@ -155,6 +155,27 @@ Contributions may include, but are not limited to:
 
 > Want to be listed here? Make a meaningful contribution to XAUHOOD and help grow the community.
 
+## 🚀 Become a Contributor
+
+Want to help shape XAUHOOD?
+
+We welcome developers, designers, meme creators, community moderators, documentation writers, content creators, and anyone passionate about building the XAUHOOD ecosystem.
+
+To get started:
+
+1. Visit the **GitHub Discussions** page.
+2. Create a new discussion in the **🚀 Become a Contributor** category.
+3. Introduce yourself.
+4. Tell the community:
+   - Who you are
+   - What skills or experience you have
+   - How you'd like to contribute
+   - What you plan to build or support
+
+This process is completely open and transparent. Everyone can see your introduction, share ideas, collaborate, and help grow the XAUHOOD ecosystem together.
+
+Meaningful contributors may be recognized in this repository as **Community Contributors**.
+
 ---
 
 # Disclaimer
