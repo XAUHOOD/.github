@@ -163,7 +163,7 @@ We welcome developers, designers, meme creators, community moderators, documenta
 
 To get started:
 
-1. Visit the **GitHub Discussions** page.
+1. Visit the [**GitHub Discussions**](https://github.com/orgs/XAUHOOD/discussions/1) page.
 2. Create a new discussion in the **🚀 Become a Contributor** category.
 3. Introduce yourself.
 4. Tell the community:
